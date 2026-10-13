@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق ويب لقراءة القرآن وتتبع الحفظ وملاحقة الأخطاء
+# 🛠️ Tech Stack — Quran Memorization & Mistake Tracking Web App
 
 - HTML5
 - CSS3

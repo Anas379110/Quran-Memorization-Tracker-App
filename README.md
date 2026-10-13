@@ -1,21 +1,19 @@
-# تطبيق ويب لقراءة القرآن وتتبع الحفظ وملاحقة الأخطاء
-**Quran Memorization & Mistake Tracking Web App** · التصنيف: ويب / تطبيق
+# Quran Memorization & Mistake Tracking Web App · Classification: Web / App
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-تطبيق ويب بتصميم موبايل لقراءة القرآن ومتابعة تقدم الحفظ وتتبع أخطاء التلاوة بتجربة قريبة من التطبيقات الأصلية.
+## Project overview
+A mobile-designed web app for reading the Quran, tracking memorization progress, and tracking recitation mistakes with an experience close to native apps.
 
-## أبرز النقاط
-- 4 شاشات: الرئيسية، القرآن، المكتبة مع ساعة ديناميكية وتاريخ عربي
-- قارئ آيات مع خيار الترجمة وزر رجوع
-- تصميم 430px يحاكي تطبيق iOS/Android حقيقي
+## Highlights
+- 4 screens: Home, Quran, Library with a dynamic clock and Arabic date
+- Verse reader with translation option and back button
+- 430px design that mimics a real iOS/Android app
 
-## الدور
-مطوّر ويب/تطبيقات: بناء تطبيق الويب من الواجهة حتى الخدمات الخلفية والتكاملات.
+## Role
+Web/App developer: build the web app from the frontend through backend services and integrations.
 
-## التقنيات المستخدمة
+## Technologies used
 HTML5, CSS3, JavaScript, PWA, Service Worker, IndexedDB, Cloudflare Pages
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
